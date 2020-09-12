@@ -1,0 +1,9 @@
+nishi 1234 A
+sunil 1234 S
+panda 12345 F
+nishi 1234 S
+nishi 12345 S
+nishi 1234 S
+nishikanta 12345 S
+nishikanta 123456 F
+nishikanta 1234567 A
