@@ -1,1 +1,3 @@
 # c-
+
+notes inside main
